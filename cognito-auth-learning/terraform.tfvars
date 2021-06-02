@@ -1,0 +1,5 @@
+﻿region                          = "eu-west-2"
+environment                     = "sand-box"
+cognito_identity_pool_name      = "tutorial-paulolancao-pool"
+cognito_identity_pool_provider  = "login.example.com"
+namespace                       = "tutorial-paulolancao-cognito-auth"
